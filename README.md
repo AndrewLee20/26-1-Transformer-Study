@@ -33,6 +33,15 @@ A.ing 주니어 트랙 Transformer 세션은 Transformer에 대한 근본적인 
 ```text
 26-Spring-Transformer-Study/
 ├─ readme.md
+├─ week 1/
+│  ├─ A.ing_transformer_cheat_sheet.md
+│  ├─ Transformer_Questions.md
+│  └─ Transformer_Questions_Answer.md
+├─ week 2/
+│  ├─ Aing_Transformer_from_scratch_blank.ipynb
+│  └─ transformer_cookbook.md
+├─ week 3/
+   └─ Aing_리그전_Transformer_Finetune_Multi30k_IWSLT.ipynb
 
 ```
 
@@ -44,7 +53,7 @@ A.ing 주니어 트랙 Transformer 세션은 Transformer에 대한 근본적인 
 | 이름 | 이메일 |
 |------|--------|
 | 전제오 |  |
-| 이영민 |  |
+| 이영민 | dudals4087@naver.com |
 
 질문이나 도움이 필요하면 언제든 연락 주세요!<br>
 한 학기 동안 함께 열심히 공부해봅시다!
