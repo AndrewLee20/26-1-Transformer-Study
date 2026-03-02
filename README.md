@@ -27,6 +27,10 @@ A.ing 주니어 트랙 Transformer 세션은 Transformer에 대한 근본적인 
 | 3 | 실험 | 구현된 코드, 새 데이터 | 하이퍼파라미터 튜닝 및 리그전 |
 | 4 | 정리 | 실험 데이터 기록 | 1등 팀의 전략 발표 및 로그 분석 |
 
+## Paper Link
+Attention is all you need
+https://arxiv.org/abs/1706.03762
+
 ## Transformer_Youtube_Playlist
 https://youtube.com/playlist?list=PL-PHXChFg8_tv0e8bNxYuh5VdWH0JO1sl&si=1K1-1GJuzpGGlA13
 
@@ -38,8 +42,7 @@ https://youtube.com/playlist?list=PL-PHXChFg8_tv0e8bNxYuh5VdWH0JO1sl&si=1K1-1GJu
 ├─ Week 1
 │  ├─ A.ing_Transformer_Cheat_sheet.md
 │  ├─ A.ing_Transformer_Questions.md
-│  ├─ A.ing_Transformer_Questions_Answer.md
-│  └─ Attention is all you need Paper.pdf
+│  └─ A.ing_Transformer_Questions_Answer.md
 ├─ Week 2
 │  ├─ A.ing_Transformer_from_scratch_blank.ipynb
 │  └─ A.ing_Transformer_Cookbook.md
@@ -47,9 +50,6 @@ https://youtube.com/playlist?list=PL-PHXChFg8_tv0e8bNxYuh5VdWH0JO1sl&si=1K1-1GJu
    ├─ A.ing_리그전_Transformer_Explain.md
    └─ A.ing_리그전_Transformer_Finetune_Multi30k_IWSLT.ipynb
 ```
-
-## Attention is all you need 논문
-https://papers.nips.cc/paper_files/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html
 
 ## 담당자
 | 이름 | 이메일 |
